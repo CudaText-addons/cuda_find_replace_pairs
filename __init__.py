@@ -72,8 +72,6 @@ class Command:
         with open(json_fn, mode = 'w', encoding = 'utf-8') as f:
             json.dump(data, f, indent = 2)
 
-        msg_status(_('Pairs of Find/Replace updated'))
-
     def get_w_h(self):
         w_ = 600
         h_ = 600
