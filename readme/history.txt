@@ -1,3 +1,6 @@
+2026.11.13
+[-] unnecessary msg in status-bar
+
 2025.09.27
 [*] adapted under python 3.8
 
